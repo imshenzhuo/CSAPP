@@ -17,7 +17,6 @@
 1. [准备](<https://github.com/imshenzhuo/CSAPP/blob/master/Chapter3-%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9C%BA%E5%99%A8%E7%BA%A7%E8%A1%A8%E7%A4%BA/Part1.md>)
 2. [从机器代码角度了解学习C语言](<https://github.com/imshenzhuo/CSAPP/blob/master/Chapter3-%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9C%BA%E5%99%A8%E7%BA%A7%E8%A1%A8%E7%A4%BA/Part2.md>)
 3. [从机器代码角度理解C语言的调用细节](<https://github.com/imshenzhuo/CSAPP/blob/master/Chapter3-%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9C%BA%E5%99%A8%E7%BA%A7%E8%A1%A8%E7%A4%BA/Part3.md>)
-4. 浮点数？
 
 ## 准备
 
